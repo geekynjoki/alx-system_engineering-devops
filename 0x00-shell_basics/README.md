@@ -8,3 +8,4 @@
 8.Move the file betty 
 9.Delete the file betty
 10.Delete the directory
+11.changes the working directory to the previous one.
