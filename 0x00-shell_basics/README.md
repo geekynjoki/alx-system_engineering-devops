@@ -12,3 +12,4 @@
 12.Write a script that lists all files
 13.Print file type
 14.Symbolic link
+15.Copy html files
