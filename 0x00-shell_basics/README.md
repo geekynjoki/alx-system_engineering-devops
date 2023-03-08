@@ -6,3 +6,4 @@
 6.Display current directory contents.
 7.Create a script that creates a directory in another
 8.Move the file betty 
+9.Delete the file betty
