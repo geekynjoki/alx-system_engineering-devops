@@ -11,3 +11,4 @@
 11.changes the working directory to the previous one.
 12.Write a script that lists all files
 13.Print file type
+14.Symbolic link
